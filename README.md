@@ -5,11 +5,8 @@ GAMEPと書いてがめぴーと読む。プログラミング初心者。
 ### 【現在開発中のもの】
 ・ログイン不要で単語帳が作れる単語暗記ツール「Anki」(アンキー)
 
-### 【使える言語】
-・html<br>
-・css<br>
-・Java Script(少しだけ)<br>
-・Python(少しだけ)<br>
+### 【使ってる言語とか】
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,discord,gcp,github,powershell,vscode)](https://skillicons.dev)
 
 ### 【取得資格】
 ・ITパスポート
