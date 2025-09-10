@@ -8,6 +8,13 @@ GAMEPと書いてがめぴーと読む。プログラミング初心者。
 ### 【使ってる言語とか】
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,discord,gcp,github,powershell,vscode)](https://skillicons.dev)
 
+### 【開発環境】
+・Windows PC(自作デスクトップ、Let'sNote CF-SV7)<br>
+使用ソフト→Visual Studio Code、Git<br>
+・iPad 6世代<br>
+使用ソフト→Visual Studio Code<br>
+・iPad 9世代
+
 ### 【取得資格】
 ・ITパスポート
 ・全商情報処理検定1級
