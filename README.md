@@ -4,6 +4,7 @@ GAMEPと書いてがめぴーと読む。プログラミング初心者。
 
 ### 【現在開発中のもの】
 ・ログイン不要で単語帳が作れる単語暗記ツール「Anki」(アンキー)
+・GRANTULISMO7のロビーレース順位表アプリ「GT7 RankingApp」(ジーティーセブン ランキングアップ) (現在非公開リポジトリ)
 
 ### 【使ってる言語とか】
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,discord,gcp,github,powershell,vscode)](https://skillicons.dev)
