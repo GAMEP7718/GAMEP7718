@@ -12,7 +12,7 @@ GAMEPと書いてがめぴーと読む。プログラミング初心者。
 ### 【開発環境】
 ・Windows PC(自作デスクトップ、Let'sNote CF-SV7)<br>
 使用ソフト→Visual Studio Code、Git<br>
-・iPad 6世代<br>
+・iPad 8世代<br>
 使用ソフト→Visual Studio Code<br>
 ・iPad 9世代
 
