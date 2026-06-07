@@ -20,6 +20,10 @@ GAMEPと書いてがめぴーと読む。プログラミング初心者。
 ・ITパスポート
 ・全商情報処理検定1級
 
+###【取得を目指している資格】
+・基本情報技術者試験<br>
+・Azure Fundamentals(AZ-900)
+
 <!--
 **GAMEP7718/GAMEP7718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
