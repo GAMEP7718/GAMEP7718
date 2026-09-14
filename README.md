@@ -4,12 +4,12 @@ GAMEPと書いてがめぴーと読む。プログラミング初心者。情報
 
 ### 【現在開発中のもの】
 ・シンプルが使いやすい。単語暗記ツール「Anki」(アンキー)<br>
-→[Anki](https://gamep-anki.netlify.app/)
+→[Anki](https://gamep-anki.netlify.app/)<br>
 ・GRANTULISMO7のロビーレース順位表アプリ「GT7 RankingApp」(ジーティーセブン ランキングアップ) (現在非公開リポジトリ)<br>
 ・TKT Race Events ユーザーページ(非公開リポジトリ)
 
 ### 【使ってる言語とか】
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,discord,gcp,github,powershell,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,discord,gcp,github,powershell,vscode,php)](https://skillicons.dev)
 
 ### 【開発環境】
 ・Windows PC(自作デスクトップ、Let'sNote CF-SV7)<br>
@@ -21,12 +21,11 @@ GAMEPと書いてがめぴーと読む。プログラミング初心者。情報
 ・基本情報技術者試験<br>
 ・ITパスポート試験<br>
 ・情報検定：J検 1級<br>
-・全商情報処理検定1級
+・全商情報処理検定1級<br>
+・Azure Fundamentals(AZ-900)
 
 ### 【勉強中の資格】
-・Azure Fundamentals(AZ-900)<br>
-・応用情報技術者試験<br>
-・ネットワークスペシャリスト試験
+・応用情報技術者試験
 
 <!--
 **GAMEP7718/GAMEP7718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
