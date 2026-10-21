@@ -12,10 +12,10 @@ GAMEPと書いてがめぴーと読む。プログラミング初心者。情報
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,discord,gcp,github,powershell,vscode,php)](https://skillicons.dev)
 
 ### 【開発環境】
-・Windows PC(自作デスクトップ、Let'sNote CF-SV7)<br>
+・Windows PC(自作デスクトップ、MacBook Air M3)<br>
 使用ソフト→Visual Studio Code、Git<br>
 ・iPad 8世代<br>
-使用ソフト→Visual Studio Code
+使用ソフト→Visual Studio Code(Web)
 
 ### 【取得資格】
 ・基本情報技術者試験<br>
